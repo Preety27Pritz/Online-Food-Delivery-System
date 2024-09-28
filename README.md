@@ -2,16 +2,16 @@ The Online Food Delivery System is a web-based platform that enables users to or
 
 Key Features:
 
-User Validation: Secure user registration and login process to ensure authorized access.
-Menu Browsing: Users can explore a variety of restaurant menus and food items.
-Order Processing: Seamless process for selecting items, placing orders, and tracking them.
-Backend Database Integration: Efficient data management for storing user, hotel, and order information.
-Admin Management: Admin can approve, block, and manage hotel accounts, ensuring system control.
-Hotel Management: Hotels can upload, update, and delete products from their menus.
-Order History: Users can view their past orders and track current ones.
-Responsive UI: Intuitive and mobile-friendly user interface for enhanced user experience.
-Endpoint Communication: Well-defined endpoints for smooth interaction between frontend and backend.
-System Maintenance by Admin: Admin oversees the entire system, ensuring smooth operation.
+*User Validation: Secure user registration and login process to ensure authorized access.
+*Menu Browsing: Users can explore a variety of restaurant menus and food items.
+*Order Processing: Seamless process for selecting items, placing orders, and tracking them.
+*Backend Database Integration: Efficient data management for storing user, hotel, and order information.
+*Admin Management: Admin can approve, block, and manage hotel accounts, ensuring system control.
+*Hotel Management: Hotels can upload, update, and delete products from their menus.
+*Order History: Users can view their past orders and track current ones.
+*Responsive UI: Intuitive and mobile-friendly user interface for enhanced user experience.
+*Endpoint Communication: Well-defined endpoints for smooth interaction between frontend and backend.
+*System Maintenance by Admin: Admin oversees the entire system, ensuring smooth operation.
 
 Roles and responsibilities:- 
 
